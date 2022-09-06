@@ -1,6 +1,6 @@
 
 <h3 align="left">Hi everyone! 👋</h3>
-<h3 align="left"Welcome to my Github profile.</h3>
+Welcome to my Github profile
 
 My name is Kemal Tütüncü and I'm a 👨🏼‍💻 Junior Web Developer from Germany and using HTML, CSS, SASS, Bootstrap, JavaScript & React.js
 <!--
