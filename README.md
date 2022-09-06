@@ -15,8 +15,6 @@ My name is Kemal Tütüncü and I'm a 👨🏼‍💻 Junior Web Developer from 
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kemaltt)](https://git.io/streak-stats)
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kemaltt&show_icons=true&theme=gradient)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=kemaltt&show_icons=true&theme=radical)
 
 
