@@ -19,12 +19,8 @@ My name is Kemal Tütüncü and I'm a 👨🏼‍💻 Junior Web Developer from 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kemaltt&show_icons=true&theme=gradient)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=kemaltt&show_icons=true&theme=radical)
 
-<h1 align="center">Hi 👋, I'm Kemal</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemaltt&label=Profile%20views&color=0e75b6&style=flat" alt="kemaltt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemaltt" alt="kemaltt" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
