@@ -18,7 +18,7 @@ My name is Kemal Tütüncü and I'm a 👨🏼‍💻 Junior Web Developer from 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kemal-tütüncü-923160222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemal-tütüncü-923160222" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kemal38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemal-tütüncü-923160222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
