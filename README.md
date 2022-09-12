@@ -28,7 +28,9 @@ My name is Kemal Tütüncü and I'm a 👨🏼‍💻 Junior Web Developer from 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=kemaltt&show_icons=true&theme=radical)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kemaltt&show_icons=true&locale=en&layout=compact" alt="kemaltt" /></p>
 
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemaltt&" alt="kemaltt" /></p>
+-->
 
 
 
