@@ -31,7 +31,9 @@ My name is Kemal and I'm a 👨🏼‍💻 Junior Web Developer from Germany and
 
 
 
-
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemaltt&" alt="kemaltt" /></p>
+-->
 
 
 
