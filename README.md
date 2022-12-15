@@ -29,7 +29,7 @@ My name is Kemal and I'm a 👨🏼‍💻 Junior Web Developer from Germany and
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kemaltt&show_icons=true&theme=cobalt) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemaltt&layout=compact)](https://github.com/kemaltt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemaltt&layout=cobalt)](https://github.com/kemaltt/github-readme-stats)
 
 <!--
  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
