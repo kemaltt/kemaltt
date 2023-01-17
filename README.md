@@ -2,7 +2,7 @@
 <h3 align="left">Hi everyone! 👋</h3>
 Welcome to my Github profile
 
-My name is Kemal and I'm a 👨🏼‍💻 Junior Web Developer from Germany and using HTML, CSS, SASS, Bootstrap, JavaScript & React.js
+My name is Kemal and I'm a 👨🏼‍💻 Web Developer from Germany and using HTML, CSS, SASS, Bootstrap, JavaScript & React.js
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
