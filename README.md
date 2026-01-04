@@ -28,8 +28,8 @@ I enjoy working on:
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.xing.com/profile/Kemal_Tuetuncue](https://www.xing.com/profile/Kemal_Tuetuencue/web_profiles" target="_blank">
-<img src="https://img.shields.io/badge/XING-006567?logo=xing&logoColor=white" width="30" />
+<a href="https://www.xing.com/profile/Kemal_Tuetuencue/web_profiles" target="_blank">
+<img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" width="30" />
 </a>
 </p>
 
