@@ -89,6 +89,11 @@ I enjoy working on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemaltt&layout=compact)
 
 
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=kemaltt&show_icons=true&theme=cobalt&hide_border=true&cache_seconds=86400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemaltt&layout=compact&hide_border=true&cache_seconds=86400" />
+
 
 
 
