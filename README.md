@@ -23,14 +23,6 @@ I enjoy working on:
 
 ---
 
-### 💡 Interests
-- Web performance & clean architecture
-- Backend services, integrations & automation
-- **AI-assisted workflows and LLM-based product features**
-- Building products, not just components
-
----
-
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/kemal38" target="_blank">
@@ -88,7 +80,8 @@ I enjoy working on:
 
 ### 💡 Interests
 - Web performance & clean architecture
-- Backend services & integrations
+- Backend services, integrations & automation
+- **AI-assisted workflows and LLM-based product features**
 - Building products, not just components
 
 ---
