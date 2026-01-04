@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kemal</h1>
 <h3 align="center">
-Fullstack Web Developer · JavaScript · React · Node.js
+Fullstack Developer · JavaScript · React · Node.js
 </h3>
 
 ---
