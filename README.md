@@ -27,6 +27,10 @@ I enjoy working on:
 <a href="https://linkedin.com/in/kemal38" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
 </a>
+&nbsp;&nbsp;
+<a href="https://www.xing.com/profile/Kemal_Tuetuncue" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xing/xing-original.svg" width="30" />
+</a>
 </p>
 
 ---
