@@ -29,7 +29,7 @@ I enjoy working on:
 </a>
 &nbsp;&nbsp;
 <a href="https://www.xing.com/profile/Kemal_Tuetuncue" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xing/xing-original.svg" width="30" />
+<img src="https://img.shields.io/badge/XING-006567?logo=xing&logoColor=white" width="30" />
 </a>
 </p>
 
