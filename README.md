@@ -18,7 +18,16 @@ I enjoy working on:
 ### 🔧 What I’m working on
 - Building fullstack applications with **React & Node.js**
 - Integrating APIs, authentication, and email services
+- Adding **AI-assisted features** to improve user experience and automation
 - Improving code quality, structure, and maintainability
+
+---
+
+### 💡 Interests
+- Web performance & clean architecture
+- Backend services, integrations & automation
+- **AI-assisted workflows and LLM-based product features**
+- Building products, not just components
 
 ---
 
